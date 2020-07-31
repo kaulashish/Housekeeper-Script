@@ -5,8 +5,8 @@ import shutil
 
 #Inputs to be given by user
 
-directory = '/home/hadoop/PycharmProjects/Housekeeping-Script--master/Files' 	#input local files directory here
-archive = '/home/hadoop/PycharmProjects/Housekeeping-Script--master/Archive'	#enter local archive location
+directory = '/path/to/files' 	#input local files directory here
+archive = '/path/to/archive'	#enter local archive location
 hadoop_dir = '/usr/local/hadoop/bin/hdfs'  #can be retrieved by entering 'which hadoop' in terminal
 
 #generating current date and datetime
