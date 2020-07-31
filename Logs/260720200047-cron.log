@@ -1,0 +1,14 @@
+put: `/user/hadoop/tmp-archive': File exists
+put: `/user/hadoop/tmp-archive': File exists
+put: `/user/hadoop/tmp-archive': File exists
+put: `/user/hadoop/tmp-archive': File exists
+File "3.txt" moved to archive. [33 days old]
+Archive location: /home/hadoop/PycharmProjects/Housekeeping-Script--master/Archive
+File "2.txt" moved to archive. [6 days old]
+Archive location: /home/hadoop/PycharmProjects/Housekeeping-Script--master/Archive
+File "1.txt" moved to archive. [20 days old]
+Archive location: /home/hadoop/PycharmProjects/Housekeeping-Script--master/Archive
+File "test.txt" moved to archive. [9 days old]
+Archive location: /home/hadoop/PycharmProjects/Housekeeping-Script--master/Archive
+Archive location exists...using current archive.
+Files added to HDFS in dir : /user/hadoop/tmp-archive

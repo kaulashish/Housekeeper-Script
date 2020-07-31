@@ -1,0 +1,7 @@
+File "3.txt" moved to archive. [33 days old]
+File "2.txt" moved to archive. [6 days old]
+File "1.txt" moved to archive. [20 days old]
+File "test.txt" moved to archive. [9 days old]
+Archive location: /home/hadoop/PycharmProjects/Housekeeping-Script--master/Archive
+Archive created -> /user/hadoop/tmp-archive
+Files added to HDFS in dir : /user/hadoop/tmp-archive

@@ -1,0 +1,6 @@
+put: `/user/hadoop/tmp-archive': File exists
+put: `/user/hadoop/tmp-archive': File exists
+put: `/user/hadoop/tmp-archive': File exists
+put: `/user/hadoop/tmp-archive': File exists
+Archive location exists...using current archive.
+Files added to HDFS in dir : /user/hadoop/tmp-archive
