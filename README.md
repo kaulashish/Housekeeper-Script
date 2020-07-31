@@ -13,14 +13,5 @@ STEPS TO RUN:
 2) In order to schedule the file to run everyday, you can use Cron by entering 'crontab -e' in the terminal and pasting the following code at the end of file with respective changes for the directory for it (in this case, script will run everyday at 5PM or 1700 hours) -->
 
 
-00 17 * * * python path/to/file > /path/to/log`date +\%d\%m\%Y\%H\%M`-cron.log 2>&1
+## 00 17 * * * python path/to/file > /path/to/log`date +\%d\%m\%Y\%H\%M`-cron.log 2>&1
 
-
-### Example of job definition:
-### .---------------- minute (0 - 59)
-### |  .------------- hour (0 - 23)
-### |  |  .---------- day of month (1 - 31)
-### |  |  |  .------- month (1 - 12) OR jan,feb,mar,apr ...
-### |  |  |  |  .---- day of week (0 - 6) (Sunday=0 or 7) OR sun,mon,tue,wed,thu,fri,sat
-### |  |  |  |  |
-### *  *  *  *  * user-name  command to be executed
